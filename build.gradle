@@ -6,6 +6,7 @@ repositories {
 
 dependencies {
     testCompile 'junit:junit:4.+'
+    testCompile 'org.apache.jena:apache-jena-libs:3.+'
 }
 
 sourceSets {
