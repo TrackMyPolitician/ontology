@@ -7,3 +7,6 @@ build/
 .classpath
 .settings/
 /bin/
+
+### Protege ###
+catalog*.xml
